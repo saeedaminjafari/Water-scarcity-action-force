@@ -14,8 +14,8 @@ The site users are divided into two groups:
 ### Site owners’ goal:
 The WaSAF organization is interested in raising donations and absorbing volunteers and members to carry out their environmental and conservation projects. The final goal is addressing the water scarcity problems.
 
-![Home page Wireframe on mobile screen](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/WaSAF-home-Mobile.pdf)
-![Home page Wireframe on non-mobile screen](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/WaSAF-home-screen.pdf)
+[Home page Wireframe on mobile screen](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/WaSAF-home-Mobile.pdf)
+[Home page Wireframe on non-mobile screen](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/WaSAF-home-screen.pdf)
 
 ## Features
  
