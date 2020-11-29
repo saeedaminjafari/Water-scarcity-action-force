@@ -71,6 +71,9 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ## Credits
 
+### Repository
+- The full repository template of Code Institute was used for the initial wbesite developement: [Gitpod Full Template](https://github.com/Code-Institute-Org/gitpod-full-template)
+
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
