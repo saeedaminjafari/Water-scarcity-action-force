@@ -1,4 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
 /*...........................header*/
-.title {
-    background-color: orange;
+.brand {
+    background-color: #72b9e8;
+    text-align: center;
+}
+
+.brand a:hover {
+    text-decoration: none;
+}
+
+.brand h1 {
+    color: #fafafa;
+    padding: 5px 0px;
+    margin: 0px 0 10px;
+    font-family: 'Exo', sans-serif;
+    font-size: 24px;
+    display: inline-block;
+}
+
+.logo {
+    margin-top: 10px;
+    font-size: 35px;
+    color: #e67e22;
 }
