@@ -15,9 +15,13 @@
     text-transform: uppercase;
 }
 
-.menu-right {
+/* .menu-right {
     margin-left: 40%;
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase; 
     font-weight: 500;   
+} */
+
+.field-img {
+    width: 100%;
 }
