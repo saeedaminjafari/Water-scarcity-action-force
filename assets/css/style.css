@@ -12,11 +12,11 @@ body {
     color: #2098d1;
 }
 
-.navbar-brand {
+.company-name {
     font-family: 'Exo', sans-serif;
-    font-weight: 600;
+    font-weight: 500;
     color: #2098d1;
-    text-transform: uppercase;
+    color: inherit;
     font-size: 40px;
 }
 
