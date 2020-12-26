@@ -72,3 +72,51 @@ body {
     padding: 10px 5px 10px 40px;
 }
 
+/* .........................................projects */
+
+.proj-title {
+    margin-top: 50px;
+}
+
+.line-splitter {
+    width: 55%;
+    height: 5px;
+    margin-left: 0;
+    border: 0;
+    background-color: #444;
+}
+
+/* .........................................footer */
+
+.v-splitter {
+    font-size: 25px;
+}
+
+.footer-links:hover {
+    color: #2098d1;
+    color: inherit;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 32px;                    /* these following four lines make a circle background for the social icons */
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #529de4;
+}
