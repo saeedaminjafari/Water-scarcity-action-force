@@ -6,6 +6,10 @@ body {
 
 /* .......................................navbar */
 
+.bg--nav {
+    background-color: #b7ece3;
+}
+
 .logo {
     padding-right: 7px;
     font-size: 40px;
@@ -74,6 +78,10 @@ body {
 
 /* .........................................projects */
 
+.bg---sections {
+    background-color: #bff8ef;
+}
+
 .proj-title {
     margin-top: 50px;
 }
@@ -86,8 +94,26 @@ body {
     background-color: #444;
 }
 
+.img--border {
+    border-radius: 10px;
+}
+
+.caption-proj {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid #444;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
 /* .........................................footer */
 
+.bg--foot {
+    background-color: #b7ece3;
+}
 .v-splitter {
     font-size: 25px;
 }
@@ -110,7 +136,7 @@ body {
     line-height: 7px;
     text-align: center;
     color: #fafafa;
-    background: #8f8f8f;
+    background: #529de4;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -118,5 +144,5 @@ body {
 }
 
 .social-links li a i:hover {
-    background: #529de4;
+    background: #07e992;
 }
