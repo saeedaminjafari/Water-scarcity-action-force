@@ -45,6 +45,22 @@ body {
     position: relative;
 }
 
+.bg--vacan {
+    height: 100vh;
+
+    background: url("../images/vacancies.jpg") no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    display: flex;
+    align-items: right;
+    justify-content: right;
+
+    position: relative;
+}
+
 .opaque-overlay{
     position: absolute;
     top: 0;
@@ -66,7 +82,7 @@ body {
 }
 
 .worldwater-h{
-    color: #e4a353;
+    color: #e77540;
 }
 
 .company{
@@ -80,6 +96,10 @@ body {
 
 .bg---sections {
     background-color: #bff8ef;
+}
+
+.add-section{
+    width: 200%;
 }
 
 .proj-title {
@@ -145,4 +165,22 @@ body {
 
 .social-links li a i:hover {
     background: #07e992;
+}
+
+/* .........................................Vacancy page */
+.warn--color {
+    color: #e77540;
+}
+
+.ad--section {
+    display: block;
+}
+
+.box--ad {
+    background-color: #eae3d6;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px 5px 10px 40px;
+    font-size: 50px;
+    align-items: center;
 }
