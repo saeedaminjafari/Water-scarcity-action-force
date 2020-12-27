@@ -29,26 +29,24 @@ body {
 }
 
 /* .......................................background pic */
-.background{
-    height: 100vh;
 
-    background: url("../images/LandingPage.jpg") no-repeat bottom right fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
-    display: flex;
-    align-items: right;
-    justify-content: right;
-
-    position: relative;
+.bg--landing {
+    background: url("../images/LandingPage.jpg") no-repeat bottom right fixed;
 }
 
 .bg--vacan {
-    height: 100vh;
-
     background: url("../images/vacancies.jpg") no-repeat bottom right fixed; 
+}
+
+.bg--donation {
+    background: url("../images/donation.jpg") no-repeat bottom right fixed; 
+}
+
+.bg--contact {
+    background: url("../images/contact.jpg") no-repeat bottom right fixed; 
+}
+.background{
+    height: 100vh;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -60,6 +58,7 @@ body {
 
     position: relative;
 }
+
 
 .opaque-overlay{
     position: absolute;
