@@ -76,6 +76,13 @@ body {
     margin-top: 10%;
 }
 
+.left-al {
+    position: absolute;
+    left: 100px;
+    width: 600px;
+    margin-top: 27%;
+}
+
 .worldwater{
     background-color: transparent;
 }
@@ -90,6 +97,12 @@ body {
     margin-top: 50%;
     padding: 10px 5px 10px 40px;
 }
+
+.donation--ad {
+    margin-top: 50%;
+    color: rgb(231, 96, 33);
+}
+
 
 /* .........................................projects */
 
@@ -126,6 +139,57 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     text-align: center;
+}
+
+/* .........................................contact page */
+.contact--info {
+    background-color: #eae3d6;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.contact--link li a i {
+    width: 32px;                    /* these following four lines make a circle background for the social icons */
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 10px;
+    font-size: 50px;
+    line-height: 7px;
+    text-align: center;
+    color: #529de4;
+    background: transparent;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.contact--link li a i:hover {
+    color: #e99527;
+}
+
+.email--hov a i{
+    width: 32px;                    /* these following four lines make a circle background for the social icons */
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 10px;
+    font-size: 50px;
+    line-height: 7px;
+    text-align: center;
+    color: #529de4;
+    background: transparent;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.email--hov a i:hover{
+    color: #e99527;
 }
 
 /* .........................................footer */
