@@ -6,22 +6,24 @@ body {
 
 /* .......................................navbar */
 
+.navbar-brand {
+    color: #2098d1;
+}
+
 .bg--nav {
     background-color: #b7ece3;
 }
 
 .logo {
     padding-right: 7px;
-    font-size: 40px;
+    font-size: 20px;
     color: #2098d1;
 }
 
 .company-name {
     font-family: 'Exo', sans-serif;
     font-weight: 500;
-    color: #2098d1;
-    color: inherit;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .field-img {
@@ -34,19 +36,15 @@ body {
     background: url("../images/LandingPage.jpg") no-repeat bottom right fixed;
 }
 
-.bg--vacan {
-    background: url("../images/vacancies.jpg") no-repeat bottom right fixed; 
-}
-
 .bg--donation {
-    background: url("../images/donation.jpg") no-repeat bottom right fixed; 
+    background: url("../images/donation.jpg") no-repeat center; 
 }
 
 .bg--contact {
-    background: url("../images/contact.jpg") no-repeat bottom right fixed; 
+    background: url("../images/contact.jpg") no-repeat center; 
 }
 .background{
-    height: 100vh;
+    height: 90vh;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -94,20 +92,23 @@ body {
 .company{
     background-color: #eae3d6;
     border-radius: 10px;
-    margin-top: 50%;
+    margin-top: 25vh;
     padding: 10px 5px 10px 40px;
 }
 
 .donation--ad {
-    margin-top: 50%;
-    color: rgb(231, 96, 33);
+    margin-top: 20vh;
+    color: #f8f9fa;
+    font-family: serif;
+    font-weight: 500;
+    line-height: 1.5;
 }
 
 
 /* .........................................projects */
 
 .bg---sections {
-    background-color: #bff8ef;
+    background-color: #f9fdfc;
 }
 
 .add-section{
@@ -115,7 +116,13 @@ body {
 }
 
 .proj-title {
-    margin-top: 50px;
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+.proj-title thead th {
+    font-style: italic;
+    font-weight: bold;
 }
 
 .line-splitter {
@@ -143,13 +150,17 @@ body {
 
 /* .........................................contact page */
 .contact--info {
-    background-color: #eae3d6;
+    background-color: #efeeec;
     border-radius: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 10px;
     font-size: 50px;
     text-align: center;
+}
+
+.center-form {
+    margin-top: 30px;
 }
 
 .contact--link li a i {
@@ -170,6 +181,15 @@ body {
 
 .contact--link li a i:hover {
     color: #e99527;
+}
+
+.email--hov {
+    display: inline-flex;
+}
+
+#email {
+    margin-left: 10px;
+    margin-top: 12px;
 }
 
 .email--hov a i{
@@ -231,6 +251,17 @@ body {
 }
 
 /* .........................................Vacancy page */
+.job-page {
+    display: inline-flex;
+}
+
+.job-ad {
+    margin-top: 10vh;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
 .warn--color {
     color: #e77540;
 }
@@ -240,10 +271,35 @@ body {
 }
 
 .box--ad {
-    background-color: #eae3d6;
+    background-color: #ecebe7;
     border-radius: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     padding: 10px 5px 10px 40px;
-    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 500;
     align-items: center;
+    line-height: 3px;
+}
+
+/* .........................................Donation Page */
+.right-donat {
+    position: absolute;
+    right: 30px;
+    width: 600px;
+    margin-top: 10%;
+}
+
+.text-ad {
+    font-family: sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+/* ----------------------------------------Media Queries */
+
+@media(max-width: 321px) {
+    .company-name {
+        font-size: 20px;
+    }
 }
