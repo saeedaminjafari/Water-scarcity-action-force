@@ -10,6 +10,20 @@ body {
     color: #2098d1;
 }
 
+/* ...................................................test */
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar .navbar-nav a{
+    font-weight: bold;
+}
+
+
+
+/* ...................................................test */
+
 .bg--nav {
     background-color: #b7ece3;
 }
