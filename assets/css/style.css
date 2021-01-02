@@ -47,7 +47,7 @@ body {
 /* .......................................background pic */
 
 .bg--landing {
-    background: url("../images/LandingPage.jpg") no-repeat bottom right fixed;
+    background: url("../images/LandingPage.jpg") no-repeat right fixed;
 }
 
 .bg--donation {
@@ -64,7 +64,7 @@ body {
     -o-background-size: cover;
     background-size: cover;
     
-    display: flex;
+    display: block;
     align-items: right;
     justify-content: right;
 
@@ -85,7 +85,7 @@ body {
     position: absolute;
     right: 30px;
     width: 600px;
-    margin-top: 10%;
+    margin-top: 14vh;
 }
 
 .left-al {
@@ -106,7 +106,6 @@ body {
 .company{
     background-color: #eae3d6;
     border-radius: 10px;
-    margin-top: 25vh;
     padding: 10px 5px 10px 40px;
 }
 
@@ -140,7 +139,7 @@ body {
 }
 
 .line-splitter {
-    width: 55%;
+    width: 390px;
     height: 5px;
     margin-left: 0;
     border: 0;
@@ -315,5 +314,15 @@ body {
 @media(max-width: 321px) {
     .company-name {
         font-size: 20px;
+    }
+    .line-splitter {
+        width: 200px;
+    }
+    
+}
+
+@media(max-width: 767px) {
+    .company {
+        margin-left: 30vw;
     }
 }
