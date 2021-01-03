@@ -11,7 +11,6 @@
 > - [Features](#features)
 > - [Technologies Used](#technologies-used)
 > - [Testing](#testing)
-> - [Project bugs and solutions](#Project-bugs-and-solutions)
 > - [Deployment](#deployment)
 > - [Credits](#credits)
 > - [Acknowledgments](#Acknowledgements)
@@ -88,10 +87,10 @@ All pages have a fixed navigation bar on top of the page that can be accessed th
 - [Gitpod](https://gitpod.io/) - The primary version control IDE for development to further push and commit code to Gihub.
 
 #### Other:
-- [Code Institute Course Content](https://courses.codeinstitute.net/) - Primary source of learning code.
-- [ChromeDevTools](https://developers.google.com/web/tools/chrome-devtools) - Used frequently to detect any issues/bugs or layout differences.
-- [W3Schools](https://www.w3schools.com/) - used as a general resource for CSS and coding tips.
-- [StackOverFlow](https://stackoverflow.com/) - used as a general resource for layout tips or questions.
+- [Code Institute Course Content](https://courses.codeinstitute.net/) - Some codes copied and modified from the course materials.
+- [ChromeDevTools](https://developers.google.com/web/tools/chrome-devtools) - As the primary source of bug and error detection.
+- [W3Schools](https://www.w3schools.com/) - I found this website a very helpful tutorial.
+- [StackOverFlow](https://stackoverflow.com/) - I found the answers to many of my questins in here and helped me to fix the errors.
 
 
 ## Testing
@@ -113,6 +112,7 @@ No error found in the css file although There are warnings related to the Mozila
 
 ![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/warning.png)
 
+I encountered other errors in the project by using the chrome inspection tool that I tried changing the css properties in a live procedure to fix them. My main issue was related to postioning and display property that the positions of the elements did not fit as I expected. Finally I managed to fix them by trial and error in different screen sizes.
 
 ## Deployment
 
