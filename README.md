@@ -157,7 +157,7 @@ HTML - [W3C](https://validator.w3.org/) - Markup Validation
 
 There was two errors only in Home page:
 
-![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/error-1.png)
+![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/erro-1.png)
 - I removed h2 and h4 elements from the ul element and put al of them in a div to solve this error
 
 ![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/error-1(solved).png)
