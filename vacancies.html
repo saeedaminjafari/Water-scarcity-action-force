@@ -20,9 +20,11 @@
     <header>
         <div class="container-fluid">
             <nav class="navbar fixed-top navbar-expand-md navbar-light bg--nav text-uppercase">
-                <a class="navbar-brand company-name" href="index.html"><i class="fa fa-tint logo"></i>Water
+                <a class="navbar-brand d-none d-sm-block company-name" href="index.html"><i
+                        class="fa fa-tint logo"></i>Water
                     Scarcity
                     Action Force</a>
+                <a class="navbar-brand d-sm-none company-name" href="index.html"><i class="fa fa-tint logo"></i>WSAF</a>
                 <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarMyMob"
                     aria-controls="navbarMyMob" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -50,10 +52,10 @@
             <div class="row job-page">
                 <div class="col-6">
                     <div class="job-ad">
-                        <img src="/assets/images/vacancies.png" alt="vacancies" />
+                        <img src="/assets/images/vacancies.png" alt="vacancies" class="job-img" />
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-sm-12 col-md-6">
                     <div class="job-ad">
                         <h2>
                             Would you like to join us?<br>
@@ -72,14 +74,14 @@
     <div class="container-fluid bg---sections">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-12 proj-title container-fluid">
+                <div class="col-12 proj-title">
                     <h2 class="text-center">Job Availabilities</h2><br>
-                    <table class="table table-striped table-hover">
+                    <table class="table table-striped table-hover text-size-mob">
                         <thead>
                             <tr>
                                 <th>Type of Job</th>
                                 <th>Location</th>
-                                <th>Duration</th>
+                                <th class="d-none d-sm-table-cell">Duration</th>
                                 <th>Job Description</th>
                             </tr>
                         </thead>
@@ -87,25 +89,25 @@
                             <tr>
                                 <td>Salary-paid</td>
                                 <td>South Africa</td>
-                                <td>1 Year</td>
+                                <td class="d-none d-sm-table-cell">1 Year</td>
                                 <td>Civil engineer with the specialty in river engineering</td>
                             </tr>
                             <tr>
                                 <td>Volunteering</td>
                                 <td>Indonesia</td>
-                                <td>6 Months</td>
+                                <td class="d-none d-sm-table-cell">6 Months</td>
                                 <td>Truck Driver</td>
                             </tr>
                             <tr>
                                 <td>Master Program</td>
                                 <td>Delft University, Netherlands</td>
-                                <td>2 Years</td>
+                                <td class="d-none d-sm-table-cell">2 Years</td>
                                 <td>Hydrology and Water Resources</td>
                             </tr>
                             <tr>
                                 <td>PhD Position</td>
                                 <td>Melborne University, Australia</td>
-                                <td>4 Years</td>
+                                <td class="d-none d-sm-table-cell">4 Years</td>
                                 <td>Remote Sensing and Hydrology</td>
                             </tr>
                         </tbody>
@@ -130,15 +132,15 @@
     <footer class="bg-light text-center text-lg-start">
         <div class="container-fluid p-4 bg--foot">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-sm-6">
                     <h5 class="text-uppercase">How to contribute?</h5>
                     <div class="d-flex justify-content-center footer-links">
                         <div class="">
-                            <span><a href="#" class="text-dark btn">Available Positions</a></span>
+                            <span><a href="vacancies.html" class="text-dark btn">Available Positions</a></span>
                         </div>
                         <div class="mx-2 v-splitter">|</div>
                         <div class="">
-                            <span><a href="#" class="text-dark btn">Donation</a></span>
+                            <span><a href="donation.html" class="text-dark btn">Donation</a></span>
                         </div>
                     </div>
                 </div>
@@ -146,25 +148,25 @@
                     <h5 class="uppercase general-sub">follow Us</h5>
                     <ul class="list-inline social-links">
                         <li class="list-inline-item">
-                            <a target="_blank" href="#">
+                            <a target="_blank" href="https://facebook.com">
                                 <i class="fab fa-facebook-square"></i>
                                 <span class="sr-only">Facebook</span>
                             </a>
                         </li>
                         <li class="list-inline-item">
-                            <a target="_blank" href="#">
+                            <a target="_blank" href="https://twitter.com">
                                 <i class="fab fa-twitter-square"></i>
                                 <span class="sr-only">Twitter</span>
                             </a>
                         </li>
                         <li class="list-inline-item">
-                            <a target="_blank" href="#">
+                            <a target="_blank" href="https://instagram.com">
                                 <i class="fab fa-instagram"></i>
                                 <span class="sr-only">Instagram</span>
                             </a>
                         </li>
                         <li class="list-inline-item">
-                            <a target="_blank" href="#">
+                            <a target="_blank" href="info@water-action.com">
                                 <i class="fa fa-envelope" aria-hidden="true"></i>
                                 <span class="sr-only">Email</span>
                             </a>
