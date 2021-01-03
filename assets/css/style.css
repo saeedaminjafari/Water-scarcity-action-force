@@ -36,7 +36,7 @@ body {
 /* .......................................background pic */
 
 .bg--landing {
-    background: url("../images/LandingPage.jpg") no-repeat right fixed;
+    background: url("../images/hompepage.jpg") no-repeat right fixed;
 }
 
 .bg--donation {
@@ -170,6 +170,10 @@ body {
 
 .center-form {
     margin-top: 30px;
+}
+
+.form-control {
+    margin-bottom: 8px;
 }
 
 .contact--link li a i {
@@ -359,5 +363,9 @@ body {
 
     .job-img {
     display: none;
+    }
+
+    .text-ad-iban {
+        font-size: 12px;
     }
 }
