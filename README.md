@@ -79,6 +79,7 @@ All pages have a fixed navigation bar on top of the page that can be accessed th
 - [GoogleFonts](https://fonts.google.com/) - Exo and Robot and Sans-Serif fonts
 - [FontAwesome](https://fontawesome.com/) - For Icons
 - [Balsamiq](https://balsamiq.com/wireframes/?gclid=EAIaIQobChMIn-_lgbiJ7QIVn4BQBh1X3Av6EAAYASAAEgL1XfD_BwE) - for generating the wireframes
+- [ami](http://ami.responsivedesign.is/#) I used this one to check the responsive capability of the website.
 
 #### Version Control:
 - [Github](https://github.com/) - To store the code and use of Github Pages to deploy the website. 
