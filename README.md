@@ -28,18 +28,69 @@ We tried to design this project with concise content and a direct message. The p
  
 This website belongs to the philanthropic and non-profit organization named WSAF (Water Scarcity Action Force).
 
+**Business Goals**
+
 ### External users’ goal:
 The site users are divided into two groups:
 -	People who are willing to contribute to combating climate change effects. They reach their goal by donating money or doing volunteering jobs via this website.
 -	Researchers, scientists, and job seekers in environmental fields. They achieve their goals by applying for the available positions and vacancies.
 
 ### Site owners’ goal:
-The WaSAF organization is interested in raising donations and absorbing volunteers and members to carry out their environmental and conservation projects. The final goal is addressing the water scarcity problems.
+The WSAF organization is interested in raising donations and absorbing volunteers and members to carry out their environmental and conservation projects. The final goal is addressing the water scarcity problems.
 
 + [Wireframes for all pages](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/water-scarcity-action-force.pdf)
 
+**User Stories**
 
+#### As a First Time User:
 
+- I want to make sure that my money is getting spent in a reliable and helpful way. 
+
+- I want to know the projects that I want to contribute to them at a quick look.
+
+- I want an easy navigation throughoutthe website to get the important information.
+
+- I want to see the contact information for applying for the jobs and getting to know the projects.
+
+#### As a Regular User: 
+
+- I want to get updates on projects on a regular basis.
+
+- I want to get updates on the newly announced job oppurtunities.
+
+- I want to know if the deadlines have been extended.
+
+## Scope
+
+I designed this website based on these criteria:
+
+- The message of the website is clear and easy-to-read. There should be no need to scroll too mush to find the purpose of the organization. 
+- It is simple and decent at the same time that I can both manage coding and comming up with a nice interface.
+- It is easy-to-maintenance
+- It includes eye-catching media.
+- The contents are convincing for the users.
+- The general needs of the owner and users are meet thoroughly.
+
+## Structure
+I designed four pages (home, vacancies, your contribution and contact) with backgroound images for each page and project pictures for home page. the background picture of the donation and contact page change on smaller screen sizes to fit the screen. There are a fixed navigation bar, header, footer and sections for each page.
+
+## Skeleton
+Although the primary [wireframe](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/water-scarcity-action-force.pdf) does not exactly look like the final page, we based our design on that.
+
+## Surface
+
+For each page and section I tried to find the best contrast between the images and the texts. I also changed the pictures for different screen sizes whenever I found better combinations of colors and images.
+
+### Images
+- The images of the home page were selected based on the real projects to accurately convey the message of the website.
+
+### Typography
+- I implemented the Sans Serif, Roboto and Exo fonts of the google font collections.
+
+### Icons
+- I used the Icons of the [FontAwesome](https://fontawesome.com/icons?d=gallery) website to make its interface more apealing.
+
+---
 ## Features
 
 ### Navigation Bar
