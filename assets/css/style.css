@@ -102,7 +102,7 @@ body {
 }
 
 .donation--ad {
-    margin-top: 20vh;
+    margin-top: 10vh;
     color: #f8f9fa;
     font-family: serif;
     font-weight: 500;
@@ -332,6 +332,14 @@ body {
 }
 
 @media(max-width: 650px) {
+
+    .bg--donation {
+        background: url("../images/donation-mob.jpg") no-repeat center; 
+    }
+
+    .bg--contact {
+        background: url("../images/contact-mob.jpg") no-repeat center; 
+    }
     
     .img--border {
         height: auto;
@@ -353,4 +361,3 @@ body {
     display: none;
     }
 }
-
