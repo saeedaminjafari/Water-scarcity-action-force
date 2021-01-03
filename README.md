@@ -21,8 +21,6 @@ Although we are living in the 21st century with enormous technological and indus
 ## Description
 We tried to design this project with concise content and a direct message. The pages are highly responsive and work on different devices.
 ![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/md.png)
-![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/sm.png)
-![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/mob.png)
 
 ## UX
  
