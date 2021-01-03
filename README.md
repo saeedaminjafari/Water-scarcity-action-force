@@ -100,10 +100,19 @@ All pages have a fixed navigation bar on top of the page that can be accessed th
 
 HTML - [W3C](https://validator.w3.org/) - Markup Validation
 
-![Image]()
+There was two errors only in Home page:
+
+![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/error%201.png)
 - I removed h2 and h4 elements from the ul element and put al of them in a div to solve this error
 
+![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/error%201%20(solved).png)
+
+CSS - [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
+
+No error found in the css file although There are warnings related to the Mozila browser compatibility:
+
 ![Image]()
+
 
 ## Deployment
 
