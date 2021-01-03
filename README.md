@@ -75,7 +75,7 @@ All pages have a fixed navigation bar on top of the page that can be accessed th
 #### Languages:
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
--[JS](https://en.wikipedia.org/wiki/JavaScript)
+- [JS](https://en.wikipedia.org/wiki/JavaScript)
 
 #### Libraries:
 - [Bootstrap 4.5](https://getbootstrap.com/) - A mobile-first responsive library used to construct various parts of the project, including the Navbar, Modal Forms, Featurettes and Cards.
