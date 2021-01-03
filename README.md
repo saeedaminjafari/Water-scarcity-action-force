@@ -1,4 +1,4 @@
-![Image](https://res.cloudinary.com/elerel/image/upload/v1605301159/go2snowimg_ndpk9j.png)
+![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/Screenshot-homepage.png)
 
 # Water Scarcity Action Force
 
@@ -16,7 +16,7 @@ The site users are divided into two groups:
 ### Site owners’ goal:
 The WaSAF organization is interested in raising donations and absorbing volunteers and members to carry out their environmental and conservation projects. The final goal is addressing the water scarcity problems.
 
-+ [Wireframes for all pages](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/WaSAF-home-Mobile.pdf)
++ [Wireframes for all pages](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/water-scarcity-action-force.pdf)
 
 ## Features
  
