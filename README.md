@@ -1,9 +1,28 @@
 ![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/Screenshot-homepage.png)
 
-# Water Scarcity Action Force
+# Water Scarcity Action Force - Milestone Project 1
 
+### View the live project [here.](https://saeedaminjafari.github.io/Water-scarcity-action-force/)
+
+## Table of Contents
+> - [Overview](#overview)
+> - [Description](#description)
+> - [Ux](#ux)
+> - [User Stories](#user-stories)
+> - [Features](#features)
+> - [Technologies Used](#technologies-used)
+> - [Testing](#testing)
+> - [Project bugs and solutions](#Project-bugs-and-solutions)
+> - [Deployment](#deployment)
+> - [Credits](#credits)
+> - [Acknowledgments](#Acknowledgements)
+
+## Overview
 Although we are living in the 21st century with enormous technological and industrial developments, many people and economies are suffering from a shortage of freshwater. This project aims at addressing the lack of freshwater in vulnerable areas by raising donations, encouraging more academic research in this field, providing policymakers with potential solutions, and absorbing valuable members and volunteers. 
  
+## Description
+We tried to design this project with concise content and a direct message. The pages are highly responsive and work on different devices.
+
 ## UX
  
 This website belongs to the philanthropic and non-profit organization named WSAF (Water Scarcity Action Force).
