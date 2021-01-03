@@ -8,7 +8,6 @@
 > - [Overview](#overview)
 > - [Description](#description)
 > - [Ux](#ux)
-> - [User Stories](#user-stories)
 > - [Features](#features)
 > - [Technologies Used](#technologies-used)
 > - [Testing](#testing)
@@ -22,7 +21,9 @@ Although we are living in the 21st century with enormous technological and indus
  
 ## Description
 We tried to design this project with concise content and a direct message. The pages are highly responsive and work on different devices.
-
+![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/md.png)
+![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/sm.png)
+![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/mob.png)
 ## UX
  
 This website belongs to the philanthropic and non-profit organization named WSAF (Water Scarcity Action Force).
@@ -38,25 +39,58 @@ The WaSAF organization is interested in raising donations and absorbing voluntee
 + [Wireframes for all pages](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/water-scarcity-action-force.pdf)
 
 ## Features
+
+### Navigation Bar
+All pages have a fixed navigation bar on top of the page that can be accessed throughout the entire page, and users can go to their desired page at any time. The navigation bar collapses on small screen devices (tablets and cell phones) and works as a toggler, and also the logo of the company changes to its acronym. Moreover, by clicking on the name (or logo) of the company, users can navigate to the Home page.
  
-### Existing Features
-- Completed field projects: Photos and videos of the successful projects in Asia and Africa.
-- Research topics: The main topics and a short description of the research conducted in different case studies.
-- Vacancies’ announcement: A list of available jobs and volunteering positions and the corresponding application process.
-- Raising money: Adding a “How to contribute” section that provides users with the bank account information.
+### Home Page
+- The Home page contains an overlay (blurred) image in its header with the company purposes and slogans sharper on the right side. The company slogans disappear on smaller screens (only on medium and large screens).
+- Completed field projects: Photos of the successful projects in Asia and Africa are shown on a section with image captions with brief description.
+- Research topics: The pictures and the main topics and a short description of the research conducted in different case studies are shown in the next section.
+
+### vacancies Page
+- Vacancies’ announcement: A list of available jobs and volunteering positions and the corresponding application process. We used a table to list the jobs that the color of the rows of the table change by hovering on them.
+
+### Your Contribution (donation) Page
+- This page contains different ways that users can donate money to the WSAF.
+
+### Contact Page
 - Contact information: Provide users with the WSAF's social media and contact information.
+- There is aslo a form that users can directly type there message.
+
+### footer
+- Raising money: Adding a “Donation” section that navigate to the Your Contribution page.
+- Raising money: Adding a “How to contribute” section that navigate to the Vacancies page.
+- The contact info of the WSAF
 
 ### Features Left to Implement
 - Providing a direct payment terminal
-- Providing each project with a separate page with more details
+- the form in contact page should include an id to save the messages
+- Providing each project with a separate page containing more details
 - providing a page for the upcoming projects
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+#### Languages:
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+-[JS](https://en.wikipedia.org/wiki/JavaScript)
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+#### Libraries:
+- [Bootstrap 4.5](https://getbootstrap.com/) - A mobile-first responsive library used to construct various parts of the project, including the Navbar, Modal Forms, Featurettes and Cards.
+- [GoogleFonts](https://fonts.google.com/) - Exo and Robot and Sans-Serif fonts
+- [FontAwesome](https://fontawesome.com/) - For Icons
+- [Balsamiq](https://balsamiq.com/wireframes/?gclid=EAIaIQobChMIn-_lgbiJ7QIVn4BQBh1X3Av6EAAYASAAEgL1XfD_BwE) - for generating the wireframes
+
+#### Version Control:
+- [Github](https://github.com/) - To store the code and use of Github Pages to deploy the website. 
+- [Gitpod](https://gitpod.io/) - The primary version control IDE for development to further push and commit code to Gihub.
+
+#### Other:
+- [Code Institute Course Content](https://courses.codeinstitute.net/) - Primary source of learning code.
+- [ChromeDevTools](https://developers.google.com/web/tools/chrome-devtools) - Used frequently to detect any issues/bugs or layout differences.
+- [W3Schools](https://www.w3schools.com/) - used as a general resource for CSS and coding tips.
+- [StackOverFlow](https://stackoverflow.com/) - used as a general resource for layout tips or questions.
 
 
 ## Testing
