@@ -111,19 +111,16 @@ CSS - [W3C](https://jigsaw.w3.org/css-validator/) - CSS Validation
 
 No error found in the css file although There are warnings related to the Mozila browser compatibility:
 
-![Image]()
+![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/warning.png)
 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
+- Since I already had a Github account, I just opened my profile and created a new repository with the Code Institute's [template](https://github.com/Code-Institute-Org/gitpod-full-template).
+- I opened my newly created repository in [Gitpod](https://gitpod.io/) as the main IDE that I used to write the codes.
+- I add and commit mt repository quite often with these codes ("git add ." and git commit -m message") that all messages and process are tracable in Github because I pushed the repository there every day.
+- Then in Github, I put the Master Branch as the source to create a live URL.
+- Now the code is accessible through the clone button in Github as a URL or a file.
 
 
 ## Credits
@@ -132,11 +129,13 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The full repository template of Code Institute was used for the initial wbesite developement: [Gitpod Full Template](https://github.com/Code-Institute-Org/gitpod-full-template)
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The initial code for the form in the contact page and the social links hover style on the footer were copied and modified from the Code Institute course material.
 
 ### Media
-- The photos used in this site were obtained from ...
-
+- The photos of the projects on the Home page was downloaded from the [Stockholm Resilience Center](https://www.stockholmresilience.org/) which is a research institute belongs to Stockholm University and conducts research in the planet resilience.
+- The photo of the Vacancies page was downloaded from [Undraw](https://undraw.co/)
+- The photo of the Your Contribution page was downloaded from [this source](https://www.tvo.org/support-us/make-a-donation)
+- The photo of the contact page was downloaded from [this source](https://www.activeinternational.co.hu/contact-us)
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I appreciate all of the helps of Nishant Kumar, the Code Institue mentor, that without them I was not able to complete this project.
