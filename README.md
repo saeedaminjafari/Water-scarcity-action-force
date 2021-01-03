@@ -24,6 +24,7 @@ We tried to design this project with concise content and a direct message. The p
 ![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/md.png)
 ![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/sm.png)
 ![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/mob.png)
+
 ## UX
  
 This website belongs to the philanthropic and non-profit organization named WSAF (Water Scarcity Action Force).
