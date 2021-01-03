@@ -23,6 +23,8 @@ We tried to design this project with concise content and a direct message. The p
 ![Image](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/responsive.png)
 
 ## UX
+
+ ## Strategy
  
 This website belongs to the philanthropic and non-profit organization named WSAF (Water Scarcity Action Force).
 
@@ -35,6 +37,8 @@ The site users are divided into two groups:
 The WaSAF organization is interested in raising donations and absorbing volunteers and members to carry out their environmental and conservation projects. The final goal is addressing the water scarcity problems.
 
 + [Wireframes for all pages](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/water-scarcity-action-force.pdf)
+
+
 
 ## Features
 
