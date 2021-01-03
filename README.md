@@ -1,10 +1,12 @@
+![Image](https://res.cloudinary.com/elerel/image/upload/v1605301159/go2snowimg_ndpk9j.png)
+
 # Water Scarcity Action Force
 
 Although we are living in the 21st century with enormous technological and industrial developments, many people and economies are suffering from a shortage of freshwater. This project aims at addressing the lack of freshwater in vulnerable areas by raising donations, encouraging more academic research in this field, providing policymakers with potential solutions, and absorbing valuable members and volunteers. 
  
 ## UX
  
-This website belongs to the philanthropic organization named WaSAF (Water Scarcity Action Force).
+This website belongs to the philanthropic and non-profit organization named WSAF (Water Scarcity Action Force).
 
 ### External users’ goal:
 The site users are divided into two groups:
@@ -14,21 +16,21 @@ The site users are divided into two groups:
 ### Site owners’ goal:
 The WaSAF organization is interested in raising donations and absorbing volunteers and members to carry out their environmental and conservation projects. The final goal is addressing the water scarcity problems.
 
-+ [Home page Wireframe on mobile screen](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/WaSAF-home-Mobile.pdf)
-+ [Home page Wireframe on non-mobile screen](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/WaSAF-home-screen.pdf)
++ [Wireframes for all pages](https://github.com/saeedaminjafari/Water-scarcity-action-force/blob/master/assets/wireframes/WaSAF-home-Mobile.pdf)
 
 ## Features
  
 ### Existing Features
 - Completed field projects: Photos and videos of the successful projects in Asia and Africa.
 - Research topics: The main topics and a short description of the research conducted in different case studies.
-- Upcoming projects: The titles and short description of the planned field and research projects.
-- Vacancies’ announcement: A list of available jobs and volunteering positions and the corresponding application forms.
+- Vacancies’ announcement: A list of available jobs and volunteering positions and the corresponding application process.
 - Raising money: Adding a “How to contribute” section that provides users with the bank account information.
-- Contact information: Provide users with the WaSAF's social media and contact information.
+- Contact information: Provide users with the WSAF's social media and contact information.
 
 ### Features Left to Implement
-- Another feature idea
+- Providing a direct payment terminal
+- Providing each project with a separate page with more details
+- providing a page for the upcoming projects
 
 ## Technologies Used
 
