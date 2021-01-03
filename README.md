@@ -94,6 +94,8 @@ All pages have a fixed navigation bar on top of the page that can be accessed th
 
 ## Testing
 
+I mostly checked the functionality of the website with the Chrome inspection tools. I made sure that all links work properly and the external ones open in a new page.
+
 #### Validation
 
 HTML - [W3C](https://validator.w3.org/) - Markup Validation
