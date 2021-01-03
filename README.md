@@ -190,8 +190,8 @@ I encountered other errors in the project by using the chrome inspection tool th
 ### Media
 - The photos of the projects on the Home page was downloaded from the [Stockholm Resilience Center](https://www.stockholmresilience.org/) which is a research institute belongs to Stockholm University and conducts research in the planet resilience.
 - The photo of the Vacancies page was downloaded from [Undraw](https://undraw.co/)
-- The photo of the Your Contribution page was downloaded from [this source](https://www.tvo.org/support-us/make-a-donation)
-- The photo of the contact page was downloaded from [this source](https://www.activeinternational.co.hu/contact-us)
+- The photos of the Your Contribution page were downloaded from [this source](https://www.tvo.org/support-us/make-a-donation) and [this source](https://www.csc.gov.sg/articles/using-behavioural-insights-to-increase-charitable-donations)
+- The photos of the contact page were downloaded from [this source](https://www.activeinternational.co.hu/contact-us) and [this source](https://se.dreamstime.com/royaltyfria-bilder-telefon-i-handtecken-image32735879)
 ### Acknowledgements
 
 - I appreciate all of the helps of Nishant Kumar, the Code Institue mentor, that without them I was not able to complete this project.
